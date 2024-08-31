@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Zero duplicates</string>
+    <string name="okay">OKAY</string>
+    <string name="size">%1$.2f %2$cB</string>
+
+    <string name="load_media">Loading media</string>
+    <string name="run_image">Build image table</string>
+    <string name="run_video">Build video table</string>
+
+    <string name="wait_progress">Build progress (awaiting input)</string>
+    <string name="done_progress">Table built.</string>
+    <string name="progress">%1$d/%2$d processed\n(elapsed: %3$d min %4$d sec, remaining: %5$d min %6$d sec)</string>
+    <string name="image_count">%1$d images and %2$d videos</string>
+
+    <string name="wait_delete">Build a table first.</string>
+    <string name="empty_delete">No duplicates found.</string>
+    <string name="stat_delete">%1$d unique hashes found (average %2$.3f duplicates).\nsize improvement: %3$s</string>
+
+    <string name="backup">Backup</string>
+    <string name="delete">Delete</string>
+</resources>
